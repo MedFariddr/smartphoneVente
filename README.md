@@ -1,12 +1,1 @@
-### Vue project
-
-This project shows how to add Vue to a HTML page.
- 
-
-#### Start Sass 
-* `npm run sass`
-
-
-##### Left to do :
-* Wish List
-* Shopping cart 
+projet fait pour tester les fonctionnalités de base de vue js sur une page html
